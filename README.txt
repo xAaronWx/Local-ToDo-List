@@ -1,0 +1,1 @@
+This is a simple todo list that uses HTML, CSS, and Javascript to utilize local browser storage only.
