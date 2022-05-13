@@ -1,14 +1,14 @@
 :root {
-  --primary: #ea40a4;
-  --business: #3a82ee;
+  --primary: #006d77;
+  --business: #e29578;
   --personal: var(--primary);
-  --light: #eee;
+  --light: #edf6f9;
   --grey: #888;
   --dark: #313154;
   --danger: #ff5b57;
   --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  --business-glow: 0px 0px 4px rgba(58, 130, 238, 0.75);
-  --personal-glow: 0px 0px 4px rgba(234, 64, 164, 0.75);
+  --business-glow: 0px 0px 4px rgba(226, 149, 120, 0.75);
+  --personal-glow: 0px 0px 4px rgba(0, 109, 119, 0.75);
 }
 
 * {
